@@ -1,5 +1,5 @@
 
-# Hello World!, I'm Leonardo, a Junior Front-end Developer 👋🏼:
+# Hello World!, I'm Leonardo, Junior Front-end Developer 👋🏼:
 🛜 currently studying <br>👨🏼‍🎓
 
 # 💻 Tech Stack:
