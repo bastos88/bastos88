@@ -1,18 +1,27 @@
 ###
 
 
-# Hello World!, I'm Leonardo, Junior Front-end Developer 👋🏼:
-🛜 currently studying <br>👨🏼‍🎓
-###
+# Hi there!
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/leonardo-bastos88/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@leonardobastos6765" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+## I'm Leonardo, Junior Front-end Developer 👋🏼
+
+Apaixonado por transformar ideias em interfaces incríveis e proporcionar experiências de usuário marcantes. Minha combinação de criatividade e expertise técnica me permite desenvolver produtos digitais estratégicos, intuitivos e visualmente impactantes.
+
+🎓 Bachelor's degree in Control & Automation Engineer
+
+🌐 Passionate about web development
+
+💡 Love a good challenge
+
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-bastos-de-macedo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastos88leonardo@gmail.com)
+
+
+
+
+
 
 ###
 # 💻 Tech Stack:
