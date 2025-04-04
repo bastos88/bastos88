@@ -7,11 +7,11 @@
 
 I'm passionate about turning ideas into incredible interfaces and providing outstanding user experiences. My combination of creativity and technical expertise allows me to develop strategic, intuitive and visually striking digital products.
 
-🎓 Bachelor's degree in Control & Automation Engineer
+● 🎓 Bachelor's degree in Control & Automation Engineer
 
-🌐 Passionate about web development
+● 🌐 Passionate about web development
 
-💡 Love a good challenge
+●💡 Love a good challenge
 
 
 
