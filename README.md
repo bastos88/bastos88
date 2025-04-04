@@ -5,7 +5,7 @@
 
 ## I'm Leonardo, Junior Front-end Developer 👋🏼
 
-Apaixonado por transformar ideias em interfaces incríveis e proporcionar experiências de usuário marcantes. Minha combinação de criatividade e expertise técnica me permite desenvolver produtos digitais estratégicos, intuitivos e visualmente impactantes.
+I'm passionate about turning ideas into incredible interfaces and providing outstanding user experiences. My combination of creativity and technical expertise allows me to develop strategic, intuitive and visually striking digital products.
 
 🎓 Bachelor's degree in Control & Automation Engineer
 
