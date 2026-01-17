@@ -29,18 +29,32 @@ I'm passionate about turning ideas into incredible interfaces and providing outs
 
 ###
 
+##  📊Profile Stats
 
-<div align="left">
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=bastos88&show_icons=true&theme=dracula)
 
-</div>
+<p align="center">
+  <a href="https://github.com/bastos88">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastos88&theme=dracula" alt="bastos88's GitHub Contribution"/>
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td valign="top">
+        <a href="https://github.com/bastos88">
+            <img alt="bastos88's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bastos88&show_icons=true&count_private=true&theme=dracula&border_color=#0D1117&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="100%"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a href="https://github.com/bastos88">
+            <img alt="bastos88's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bastos88&langs_count=8&layout=compact&theme=dracula&border_color=#0D1117&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="100%"/>
+        </a>
+    </td>
+  </tr>
+</table>
 
 ###
-
-
-###
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bastos88/bastos88/output/pacman-contribution-graph-dark.svg">
