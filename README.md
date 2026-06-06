@@ -84,11 +84,7 @@
 
 ## 📊 Profile Stats
 
-<p align="center">
-  <a href="https://github.com/bastos88">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastos88&theme=tokyonight" alt="bastos88's GitHub Contribution"/>
-  </a>
-</p>
+
 
 <table align="center">
   <tr>
