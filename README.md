@@ -1,68 +1,200 @@
-###
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Leonardo%20Bastos&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# Hi there!
+# Front-End Developer
 
-## I'm Leonardo, Junior Front-end Developer 👋🏼
+### React • TypeScript • Next.js • Tailwind
 
-I'm passionate about turning ideas into incredible interfaces and providing outstanding user experiences. My combination of creativity and technical expertise allows me to develop strategic, intuitive and visually striking digital products.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Creating+responsive+user+experiences;Engineering+mindset+for+digital+products" />
 
-● 🎓 Bachelor's degree in Control & Automation Engineer
+<br>
 
-● 🌐 Passionate about web development
+<a href="https://www.linkedin.com/in/leoonardobastos">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-●💡 Love a good challenge
+<a href="mailto:bastos88leonardo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://web-portifolio-chi.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+<a href="https://github.com/bastos88">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/leoonardobastos)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastos88leonardo@gmail.com)
+</div>
 
+---
 
+## 👨‍💻 About Me
 
+🎓 **Control & Automation Engineer** transitioning into Software Development.
 
+⚡ Focused on building modern, performant and accessible web applications.
 
+💡 Passionate about turning ideas into incredible interfaces and providing outstanding user experiences.
 
-###
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)![Git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git)
+🚀 Currently studying and building projects with:
 
-###
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-##  📊Profile Stats
+</div>
 
+---
 
+## ⚔️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,js,html,css,nodejs,python,postgresql,sqlite,git,github,figma,vercel,vite" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| ☕ **Coffee Delivery** | Coffee e-commerce simulation with cart and state management | `React` `TypeScript` `Tailwind` `Vite` |
+| 💈 **OldBlade** | Barber shop scheduling system with API mock | `JavaScript` `CSS` `JSON Server` |
+| 🏨 **Hotel Transilvânia** | Complete hotel management platform | `Python` `Flask` `SQLite` |
+| ✅ **To-Do List** | Task management app with state management | `React` `Styled Components` `Vite` |
+| 💱 **Currency Converter** | Real-time currency conversion using external API | `JavaScript` `CSS` `API REST` |
+| 🎨 **Portfolio** | Personal portfolio showcasing projects and skills | `React` `TypeScript` `Tailwind` |
+| 🧮 **Calculator** | Calculator with Context API and history system | `React` `TypeScript` `Tailwind` |
+
+> 📂 **[View all repositories →](https://github.com/bastos88?tab=repositories)**
+
+---
+
+## 📊 Profile Stats
 
 <p align="center">
   <a href="https://github.com/bastos88">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastos88&theme=dracula" alt="bastos88's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastos88&theme=tokyonight" alt="bastos88's GitHub Contribution"/>
   </a>
 </p>
 
 <table align="center">
   <tr>
     <td valign="top">
-        <a href="https://github.com/bastos88">
-            <img alt="bastos88's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bastos88&show_icons=true&count_private=true&theme=dracula&border_color=#0D1117&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="100%"/>
-        </a>
+      <a href="https://github.com/bastos88">
+        <img alt="bastos88's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bastos88&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B" height="192px" width="100%"/>
+      </a>
     </td>
     <td valign="top">
-        <a href="https://github.com/bastos88">
-            <img alt="bastos88's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bastos88&langs_count=8&layout=compact&theme=dracula&border_color=#0D1117&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="100%"/>
-        </a>
+      <a href="https://github.com/bastos88">
+        <img alt="bastos88's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastos88&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B" height="192px" width="100%"/>
+      </a>
     </td>
   </tr>
 </table>
 
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bastos88/bastos88/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bastos88/bastos88/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bastos88/bastos88/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bastos88/bastos88/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bastos88/bastos88/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/bastos88/bastos88/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
+---
 
+## 📈 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bastos88&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastos88&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
+<br>
+
+<div align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastos88&theme=tokyonight"/>
+</div>
+
+---
+
+## 🏆 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastos88&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6B6B&fire=FF6B6B"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bastos88&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF"/>
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+<div align="center">
+
+| Category | Goals |
+|----------|-------|
+| **Front-end** | 🚀 Build a React portfolio • 📘 Master TypeScript • ⚛️ Deepen Next.js |
+| **Back-end** | 🐍 Develop Flask applications • 🏗️ Build Full Stack Projects |
+| **Testing** | ✅ Learn Jest + React Testing Library |
+| **Open Source** | 🌟 Contribute to Open Source projects |
+| **Career** | 💼 Get my first Front-End Developer position |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Always open to opportunities, collaborations and interesting projects.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/leoonardobastos">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:bastos88leonardo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://web-portifolio-chi.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel"/>
+</a>
+<a href="https://github.com/bastos88">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bastos88&label=Profile%20Views&style=for-the-badge&color=6C63FF"/>
+
+<br><br>
+
+⚡ *Engineering mindset. Developer execution.*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
+
+</div>
