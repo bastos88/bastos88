@@ -1,6 +1,6 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Leonardo%20Bastos&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6C63FF&reversal=false&text=Leonardo%20Bastos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descSize=16&descAlignY=55"/>
 
 # Front-End Developer
 
