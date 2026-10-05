@@ -66,24 +66,9 @@
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| ☕ **Coffee Delivery** | Coffee e-commerce simulation with cart and state management | `React` `TypeScript` `Tailwind` `Vite` |
-| 💈 **OldBlade** | Barber shop scheduling system with API mock | `JavaScript` `CSS` `JSON Server` |
-| 🏨 **Hotel Transilvânia** | Complete hotel management platform | `Python` `Flask` `SQLite` |
-| ✅ **To-Do List** | Task management app with state management | `React` `Styled Components` `Vite` |
-| 💱 **Currency Converter** | Real-time currency conversion using external API | `JavaScript` `CSS` `API REST` |
-| 🎨 **Portfolio** | Personal portfolio showcasing projects and skills | `React` `TypeScript` `Tailwind` |
-| 🧮 **Calculator** | Calculator with Context API and history system | `React` `TypeScript` `Tailwind` |
-
-> 📂 **[View all repositories →](https://github.com/bastos88?tab=repositories)**
-
 ---
 
 ## 📊 Profile Stats
-
 
 
 <table align="center">
@@ -161,7 +146,7 @@ Always open to opportunities, collaborations and interesting projects.
 <a href="mailto:bastos88leonardo@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="https://web-portifolio-chi.vercel.app">
+<a href="https://bastosdev.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel"/>
 </a>
 <a href="https://github.com/bastos88">
